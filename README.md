@@ -1,6 +1,6 @@
 PHP Swiss Ephemeris
 ========
-Getting Planet Position using PHP &amp; [AstroDienst Swiss Ephemeris](http://www.astro.com/swisseph/) library.
+Getting Planets Position using PHP &amp; [AstroDienst Swiss Ephemeris](http://www.astro.com/swisseph/) library.
 
 About Swiss Ephemeris
 -------------
