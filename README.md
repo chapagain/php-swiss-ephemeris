@@ -8,7 +8,7 @@ The SWISS EPHEMERIS is the high precision ephemeris developed by Astrodienst, la
 
 You can download the Swiss Ephemeris library from the following links:
 
-[Download area http](http://www.astro.com/ftp/swisseph) | [Download area ftp](ftp://ftp.astro.com/pub/swisseph)
+[http://www.astro.com/ftp/swisseph](http://www.astro.com/ftp/swisseph) OR [ftp://ftp.astro.com/pub/swisseph](ftp://ftp.astro.com/pub/swisseph) 
 
 In this repository, I have included following two time range's files. 
 
@@ -17,11 +17,12 @@ Planetary file   | Moon file 	| Main asteroid file 	| Time range
 sepl_12.se1 | semo_12.se1 | seas_12.se1 | 1200 AD – 1799 AD
 sepl_18.se1    | semo_18.se1 | seas_18.se1 | 1800 AD – 2399 AD
 
-> Time range from 1200 AD to 2399 AD is enough for general astrological calculation. 
-> 
-> Name of library files associated with different time ranges is given in this detailed [**Swiss Ephemeris doc**](http://www.astro.com/ftp/swisseph/doc/swisseph.pdf).
-> 
-> You can download the library files for other time ranges from download area: [http](http://www.astro.com/ftp/swisseph/ephe/) or [ftp](ftp://ftp.astro.com/pub/swisseph/ephe/).  [*Note: Scroll down the list and you will see the files to download.*]
+Time range from 1200 AD to 2399 AD is enough for general astrological calculation. 
+ 
+Name of library files associated with different time ranges is given in this detailed [**Swiss Ephemeris doc**](http://www.astro.com/ftp/swisseph/doc/swisseph.pdf).
+ 
+You can download the library files for other time ranges from download area: 
+[http://www.astro.com/ftp/swisseph/ephe/](http://www.astro.com/ftp/swisseph/ephe/) OR [ftp://ftp.astro.com/pub/swisseph/ephe/](ftp://ftp.astro.com/pub/swisseph/ephe/).  [*Note: Scroll down the list and you will see the files to download.*]
 
 Code & Output
 -------------
@@ -30,6 +31,7 @@ This code has been tested on Ubuntu Linux Machine.
 There are two files at the moment. 
 
 **1. transit.php :** Outputs current planetary positions
+
 **2. natal.php :** Outputs planetary positions and ascendant degree for any particular date (e.g. birth date)
 
 Here's a line of code from *transit.php* which is responsible for outputting current planetary positions:
